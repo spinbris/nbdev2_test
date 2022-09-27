@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev2_test"
+  site-url: "https://spinbris.github.io/nbdev2_test"
+  description: "new version with quarto"
+  repo-branch: main
+  repo-url: "https://github.com/spinbris/nbdev2_test"
